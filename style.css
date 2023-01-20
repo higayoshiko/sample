@@ -592,7 +592,7 @@ font-size: 1.6rem;
 
 .default-tick {
   border: 1px solid gray;
-  width: 16rem;
+  width: 26rem;
   padding: .5rem 2rem;
 }
 
@@ -601,8 +601,9 @@ font-size: 1.6rem;
   font-size: 1.8rem;
 }
 
-message-title {
-    border: 1px solid gray;
+.message-title {
+  border: none;
+    border-bottom: 1px solid gray;
 }
 
 .message {
